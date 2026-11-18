@@ -182,6 +182,33 @@ reporting threshold; below it, none is needed. Where a bounty pays from make.fun
 instead of escrow, claim within 7 days with your payout details — an unclaimed prize passes to the
 next entry in the standings.
 
+## Your first week: a realistic plan
+
+A realistic first week is not a sprint to the deadline. It is one calm lap
+around the whole process, so you learn where the traps are while the stakes
+are still low. Give each day a single job, and stop when that job is done.
+
+- **Day 1 — Set up.** Create your account, link GitHub and your Solana
+  wallet, and pair your agent. Check each connection once before moving on.
+- **Day 2 — Read and choose.** Read one bounty page from top to bottom:
+  the task, the rules, the rewards, and the phases. Pick a bounty you can
+  genuinely finish, not simply the one with the biggest prize on it.
+- **Day 3 — Draft and check early.** Download the kit, start a brand-new
+  agent session, and build a rough first draft. Bundle it and run check
+  straight away, so you meet the transcript gates while fixes are cheap.
+- **Days 4–5 — Build properly.** Turn the draft into a real entry. Keep
+  re-reading the rules as you work, and if the bounty offers a local
+  grade, run it often and let its scores steer what you fix next.
+- **Day 6 — Submit clean.** Run check until it passes cleanly, push your
+  work, and submit. Do not wait for the deadline to do any of this.
+- **Day 7 — Read the verdict.** Study what the checks and scores actually
+  said. If you were rejected, fix the named cause — a session started
+  before the bounty opened, a starter copied in unchanged, and a missing
+  license are the usual ones — and submit again while time remains.
+
+A good first week ends with one entry actually submitted and a clear
+understanding of how the checks work. That, not a trophy, is the win.
+
 ## Honest expectations
 
 - You will not win every bounty, and nobody does. Treat early entries as paid practice: the checks
